@@ -1,2 +1,4 @@
 # translator
-Online translator webapp 
+Online translator webapp
+
+This is using googleapis to translate messages. 
